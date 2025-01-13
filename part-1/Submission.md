@@ -1,0 +1,4 @@
+## Hello IST 707 - Applied Machine Learning 
+
+![Supervised Vs Unsupervised Image](https://camo.githubusercontent.com/751632b9aea0b425963374682a289745ed7267bacb65391a974492ed54eee1ce/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f622f62382f537570657276697365645f616e645f756e737570657276697365645f6d616368696e655f6c6561726e696e672e77656270)
+Uploading the Image that has description of decision boundary in Supervised learning and clustering in unsupervised learning
